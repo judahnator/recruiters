@@ -9,7 +9,7 @@ Where can you find me?
 * You can find my published work on [packagist](https://packagist.org/users/judahnator/)
 * Misc open source stuff I am working on can be found at my [gitlab profile](https://gitlab.com/judahnator)
 * My blog is [this way](https://judahwright.me)
-* Consulting work can be found [over here](https://judahwrightconsultingllc.com/)
+* Consulting work can be found [over here](http://judahwrightconsultingllc.com/)
 
 What is left here?
 ------------------
